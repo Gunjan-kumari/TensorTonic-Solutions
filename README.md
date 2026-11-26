@@ -22,6 +22,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Problem | Description | Link |
 |---|---|---|
 | Advantage Computation | Compute reinforcement-learning advantages by subtracting value estimates from observed returns at each timestep. | https://www.tensortonic.com/problems/compute-advantage |
+| Implement Cosine Similarity | Implement cosine similarity from scratch with NumPy. Covers dot products, Euclidean norms and zero-vector handling, with tests in the browser. | https://www.tensortonic.com/problems/cosine-similarity |
 | Implement Dot Product | Implement the dot product of equal-length numeric vectors by summing element-wise products without library shortcuts. | https://www.tensortonic.com/problems/dot-product |
 | Implement Focal Loss | Compute mean binary focal loss from predicted probabilities using a configurable focusing parameter. | https://www.tensortonic.com/problems/focal-loss |
 | Implement Nadam (Nesterov + Adam) | Implement one Nadam optimizer step in NumPy by combining Adam moments with Nesterov momentum. | https://www.tensortonic.com/problems/nadam-optimizer |
